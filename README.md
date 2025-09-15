@@ -1,4 +1,3 @@
-
 ## Profile
 - 전국 대학생 IT 연합동아리 UMC 6기 **Node.js 스터디원** (2024.03 ~ 2024.08)
 - 전국 대학생 IT 연합동아리 UMC 7기 **SpringBoot 스터디장** (2024.09 ~ 2025.02)
@@ -44,10 +43,26 @@
 </div>
 
 ---
+---
 
-<p align="center">
-  <a href="https://solved.ac/ajwoong">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajwoong" width="100%" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/ajwoong">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=ajwoong&show_icons=true&theme=transparent&rank_icon=github" 
+          width="400" 
+          height="180" />
+      </a>
+    </td>
+    <td>
+      <a href="https://solved.ac/ajwoong">
+        <img 
+          src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajwoong" 
+          width="400" 
+          height="180" />
+      </a>
+    </td>
+  </tr>
+</table>
 
