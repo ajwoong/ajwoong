@@ -1,9 +1,13 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=0092F1&width=435&lines=Hello+World!;Welcome+to+the+Lee+Yeon+Ho's+Github)](https://git.io/typing-svg)
+### Profile
+- 전국 대학생 IT 연합동아리 UMC 6기 Node.js 스터디원 <sub>(2024.03 ~ 2024.08)</sub>
+- 전국 대학생 IT 연합동아리 UMC 7기 SpringBoot 스터디장 <sub>(2024.09 ~ 2025.02)</sub>
+- KCB IT 인턴 <sub>(2025.01 ~ 2025.02)</sub>
+- 전국 대학생 IT 연합동아리 UMC 8기 SpringBoot 회장단(기획부장) <sub>(2025.03 ~ 2025.08)</sub>
 
 
 
-## Tech Stack 🔨🔨
+### Language
 
 <div style="display:flex; flex-direction:column;">
     <!-- Backend -->
@@ -15,8 +19,7 @@
     </div>
 </div>
 
-## Profile
-- 홍익대학교 컴퓨터공학과 <sub>(2022.03 ~ )</sub>
+
 
 
 ## Experience
