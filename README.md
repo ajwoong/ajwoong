@@ -1,6 +1,4 @@
 
-<br>
-### 🚀 My Stats
 
 <table>
   <tr>
@@ -12,5 +10,3 @@
   </tr>
 </table>
 
-
-</div>
