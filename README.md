@@ -24,6 +24,8 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp  
     <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Jpa&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/QueryDsl-6DB33F?style=flat-square&logo=Jpa&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Mockito-000000?style=flat-square&logo=mockito&logoColor=white"/></a>&nbsp
 </div>
 
 ### DataBase
