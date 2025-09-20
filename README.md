@@ -45,7 +45,6 @@
 </div>
 
 ---
----
 
 <table align="center">
   <tr>
