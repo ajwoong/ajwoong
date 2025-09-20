@@ -52,7 +52,7 @@
     <td>
       <a href="https://github.com/ajwoong">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=ajwoong&show_icons=true&theme=transparent&rank_icon=percentile" 
+          src="https://github-readme-stats.vercel.app/api?username=ajwoong&show_icons=true&theme=transparent&rank_icon=github" 
           width="400" 
           height="180" />
       </a>
