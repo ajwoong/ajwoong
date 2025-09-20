@@ -5,7 +5,7 @@
 - 전국 대학생 IT 연합동아리 UMC 8기 **회장단(기획부장)** (2025.03 ~ 2025.08)
 
 ## Project
-- 학생회를 위한 통합 관리 플랫폼 ["회비영"](https://github.com/heavyYoung2/BE) - (2025.03 ~ 2025.12)
+- 학생회를 위한 통합 관리 플랫폼 ["회비영"](https://github.com/heavyYoung2/BE) - (2025.03 ~ 현재)
 - KCB IT 사내 챗봇 개발 업무 (Dify, RAG, LLM, Confluence) - (2025.01 ~ 2025.02)
 - UMC OO대학교 지부 ["동아리 리크루팅 사이트"](https://github.com/HUR-Hongik-UMC-Recruit/Backend) - (2024.09 ~ 2025.02)
 - 응모형 중고거래 서비스 ["장마당"](https://github.com/JMarketYard/Back-end) - (2024.12 ~ 2025.02)
@@ -52,7 +52,7 @@
     <td>
       <a href="https://github.com/ajwoong">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=ajwoong&show_icons=true&theme=transparent&rank_icon=github" 
+          src="https://github-readme-stats.vercel.app/api?username=ajwoong&show_icons=true&theme=transparent&rank_icon=percentile" 
           width="400" 
           height="180" />
       </a>
